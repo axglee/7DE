@@ -8,7 +8,7 @@ const META = `/**
  * @description 7TV emotes in Discord
  * @version 1.2.1
  * @author axglee
- * @source https://github.com/axglee/7DE
+ * @source https://github.com/axglee/7DE/blob/main/7DE.plugin.js
  */`
 
 export default defineConfig({
