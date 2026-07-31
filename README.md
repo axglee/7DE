@@ -5,7 +5,7 @@
 <h1 align="center">7DE - 7TV Discord Emotes</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.2.0-gold?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/version-1.2.1-gold?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/Platform-Chromium-black?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/Platform-BetterDiscord-5865F2?style=flat-square" alt="BetterDiscord">

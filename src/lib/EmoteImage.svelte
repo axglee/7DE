@@ -4,7 +4,7 @@
   const isBD = typeof (globalThis as any).BdApi !== 'undefined'
   let { url, alt, lazy = true } = $props<{ url: string, alt: string, lazy?: boolean }>()
 
-  let blobUrl = $state(getCachedUrl(url) ?? "")
+  let blobUrl = $derived(getCachedUrl(url) ?? "")
   let el = $state<HTMLDivElement>()
 
   $effect(() => {

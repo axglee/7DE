@@ -6,7 +6,7 @@ import path from 'path'
 const META = `/**
  * @name 7DE
  * @description 7TV emotes in Discord
- * @version 1.2.0
+ * @version 1.2.1
  * @author axglee
  * @source https://github.com/axglee/7DE
  */`

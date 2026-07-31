@@ -31,7 +31,7 @@
 
   function send7deEmote(text: string) {
     const input = document.querySelector(
-      'div[data-slate-editor="true"]',
+      'div[role="textbox"][data-slate-editor="true"]',
     ) as HTMLElement;
     if (!input) return;
     input.focus();
